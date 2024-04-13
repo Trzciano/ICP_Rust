@@ -1,0 +1,1 @@
+/home/i7/Projekty/Warsztaty\ rust/warsztaty_rust/target/wasm32-unknown-unknown/release/warsztaty_rust_backend.wasm: /home/i7/Projekty/Warsztaty\ rust/warsztaty_rust/src/warsztaty_rust_backend/src/lib.rs

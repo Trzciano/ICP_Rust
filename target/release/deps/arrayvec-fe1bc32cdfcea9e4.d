@@ -1,0 +1,12 @@
+/home/i7/Projekty/Warsztaty rust/warsztaty_rust/target/release/deps/libarrayvec-fe1bc32cdfcea9e4.rmeta: /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/lib.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/maybe_uninit.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array_string.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/char.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/errors.rs
+
+/home/i7/Projekty/Warsztaty rust/warsztaty_rust/target/release/deps/libarrayvec-fe1bc32cdfcea9e4.rlib: /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/lib.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/maybe_uninit.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array_string.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/char.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/errors.rs
+
+/home/i7/Projekty/Warsztaty rust/warsztaty_rust/target/release/deps/arrayvec-fe1bc32cdfcea9e4.d: /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/lib.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/maybe_uninit.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array_string.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/char.rs /home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/errors.rs
+
+/home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/lib.rs:
+/home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/maybe_uninit.rs:
+/home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array.rs:
+/home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array_string.rs:
+/home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/char.rs:
+/home/i7/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/errors.rs:
